@@ -1,0 +1,16 @@
+PODS:
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - SnapKit (from `./LocalPods/SnapKit/SnapKit.podspec`)
+
+EXTERNAL SOURCES:
+  SnapKit:
+    :path: "./LocalPods/SnapKit/SnapKit.podspec"
+
+SPEC CHECKSUMS:
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 573067079cd3d503012c8075aa17a3fdcb7940bd
+
+COCOAPODS: 1.16.2

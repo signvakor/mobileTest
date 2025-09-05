@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C62D4718-F4F0-45E8-AFDC-8C769011DC67"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CB7E04F-1C04-4BBE-BC11-1DD9190C5280"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "codeTest/DataManager/BookingDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "refreshDataInBackground()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CB7E04F-1C04-4BBE-BC11-1DD9190C5280 - fff1cb0239f1b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for codeTest.BookingDataManager.refreshDataInBackground() async -&gt; ()"
+                  moduleName = "codeTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/mobileTest2/codeTest/DataManager/BookingDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "3CB7E04F-1C04-4BBE-BC11-1DD9190C5280 - d91b8bc46c24b8fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for codeTest.BookingDataManager.refreshDataInBackground() async -&gt; ()"
+                  moduleName = "codeTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/mobileTest2/codeTest/DataManager/BookingDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "3CB7E04F-1C04-4BBE-BC11-1DD9190C5280 - ca305bd88b005b4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for codeTest.BookingDataManager.refreshDataInBackground() async -&gt; ()"
+                  moduleName = "codeTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/mobileTest2/codeTest/DataManager/BookingDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+               <Location
+                  uuid = "3CB7E04F-1C04-4BBE-BC11-1DD9190C5280 - f192379504923b4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for codeTest.BookingDataManager.refreshDataInBackground() async -&gt; ()"
+                  moduleName = "codeTest.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/mobileTest2/codeTest/DataManager/BookingDataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
